@@ -1,0 +1,19 @@
+{
+  "name": "api-testing-starter",
+  "version": "1.0.0",
+  "description": "Simple API with Jest and Supertest integration testing",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "supertest": "^6.3.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
