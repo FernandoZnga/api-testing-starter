@@ -3,6 +3,7 @@
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen.svg)](https://nodejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Tests](https://github.com/FernandoZnga/api-testing-starter/actions/workflows/test.yml/badge.svg)](https://github.com/FernandoZnga/api-testing-starter/actions/workflows/test.yml)
+[![codecov](https://codecov.io/gh/FernandoZnga/api-testing-starter/branch/main/graph/badge.svg)](https://codecov.io/gh/FernandoZnga/api-testing-starter)
 [![Jest](https://img.shields.io/badge/tested%20with-jest-99424f.svg)](https://github.com/facebook/jest)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 

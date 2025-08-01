@@ -1,3 +1,5 @@
 module.exports = {
-  testEnvironment: 'node'
+  testEnvironment: 'node',
+  collectCoverage: true,
+  coverageDirectory: 'coverage'
 };
